@@ -338,6 +338,11 @@ class Defaults
                 'description' => 'Logos, assets and styling guides',
                 'image' => 'assets/logos/placeholder.jpg',
             ],
+            'howmanyhours' => [
+                'title' => 'Account Age',
+                'description' => 'How may hours?',
+                'image' => 'assets/logos/placeholder.jpg',
+            ],
             'boost' => [
                 'title' => 'Boost',
                 'description' => 'Boost your channel or content to gain more views and reach new audiences',
